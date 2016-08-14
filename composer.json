@@ -1,0 +1,26 @@
+{
+  "name": "noviniran/novincms",
+  "version": "3.25.2",
+  "type": "project",
+  "description": "noviniran software group integrated cms",
+  "keywords": ["framework","CMS"],
+  "homepage": "http://noviniran.com",
+  "email": "novincms@gmail.com",
+  "authors": [
+    {
+      "name": "Amir Hosein Ghannad Kashani",
+      "email": "amir369x@gmail.com",
+      "role": "Lead Developer"
+    },
+    {
+      "name": "Nader Rafati",
+      "email": "iranwz@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.9 || ^7.0",
+    "twig/twig": "~1.0",
+    "twig/extensions": "^1.3"
+  }
+}
